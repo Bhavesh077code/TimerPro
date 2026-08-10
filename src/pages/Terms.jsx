@@ -75,7 +75,7 @@ function Terms() {
             <p className="text-gray-300">
               For questions about these terms, contact us at:
             </p>
-            <p className="text-purple-400 mt-2">📧 legal@timerpro.app</p>
+            <p className="text-purple-400 mt-2">📧..........</p>
           </div>
 
           <div className="text-center text-gray-500 text-sm pt-4">
